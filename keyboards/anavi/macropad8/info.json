@@ -4,7 +4,7 @@
   "url": "",
   "maintainer": "leon-anavi",
   "usb": {
-      "vid": "0xCEEB",
+      "vid": "0x416E",
       "pid": "0x0001",
       "device_version": "0.0.1"
   },
